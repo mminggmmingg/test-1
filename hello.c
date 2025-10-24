@@ -3,4 +3,6 @@
 int main(){
 char s[] = "Hello World";
 printf("%s", s);
+printf("%s", s);
+
 }
